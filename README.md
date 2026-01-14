@@ -25,5 +25,7 @@ Use official document and blog write by others. It will be very useful.
 
 ## Week 2
 
-### Activity 2
+### Activity 1
 <img width="1755" height="1273" alt="W2" src="https://github.com/user-attachments/assets/8956da8b-b808-4895-8c5d-dec73091c0cf" />
+
+### Activity 2
