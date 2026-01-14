@@ -6,7 +6,8 @@
 Use official document and blog write by others. It will be very useful.
 
 ### Activity 2
-
+| Questions | Answers |
+| ---- | ------------------------------------------------------- |
 | Q1   | 10                                                      |
 | Q2   | 2                                                       |
 | Q3   | Show “hello world” every frame in the log.              |
