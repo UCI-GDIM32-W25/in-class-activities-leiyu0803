@@ -1,5 +1,5 @@
 # GDIM32 In Class Activities
-## W1
+## Week 1
 
 ### Activity 1
 
@@ -23,3 +23,7 @@ Use official document and blog write by others. It will be very useful.
 
 [W1 In Class Activities](https://docs.google.com/document/d/1y5LOXHts-EvqE00ku0UjBCC5AgohWl3lteMNVPOctuo/edit?usp=sharing)
 
+## Week 2
+
+### Activity 2
+<img width="1755" height="1273" alt="W2" src="https://github.com/user-attachments/assets/8956da8b-b808-4895-8c5d-dec73091c0cf" />
