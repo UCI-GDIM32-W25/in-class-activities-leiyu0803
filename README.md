@@ -31,3 +31,5 @@ Use official document and blog write by others. It will be very useful.
 ### Activity 2
 
 [Change in class](https://github.com/UCI-GDIM32-W25/uci-gdim32-mg2-MG2/commit/785f3dc3be5120c0e6749ffe4ec070a3a7003dfa)
+
+I have completed the game.
