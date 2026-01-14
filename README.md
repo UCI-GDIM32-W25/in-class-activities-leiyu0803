@@ -29,3 +29,5 @@ Use official document and blog write by others. It will be very useful.
 <img width="1755" height="1273" alt="W2" src="https://github.com/user-attachments/assets/8956da8b-b808-4895-8c5d-dec73091c0cf" />
 
 ### Activity 2
+
+[Change in class](https://github.com/UCI-GDIM32-W25/uci-gdim32-mg2-MG2/commit/785f3dc3be5120c0e6749ffe4ec070a3a7003dfa)
