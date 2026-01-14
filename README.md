@@ -1,26 +1,26 @@
 # GDIM32 In Class Activities
 ## W1
 
-1. Use official document and blog write by others. It will be very useful.
+### Activity 1
 
-2. 
+Use official document and blog write by others. It will be very useful.
 
-   Q1.10
+### Activity 2
 
-   Q2.2
+\begin{table}[]
+\begin{tabular}{ll}
+Q1 & 10                                                  \\
+Q2 & 2                                                   \\
+Q3 & Show “hello world” every frame in the log.          \\
+Q4 & MonoBehaviour                                       \\
+Q5 & Show "x = 10" in log.                               \\
+Q6 & Argument. Pass the value to the method.             \\
+Q7 & code is Calling a static method.                    \\
+Q8 & ransform should be \_playerTransform(or transform).
+\end{tabular}
+\end{table}
 
-   Q3.Show “hello world” every frame in the log.
+### Activity 3
 
-   Q4.MonoBehaviour
+[W1 In Class Activities](https://docs.google.com/document/d/1y5LOXHts-EvqE00ku0UjBCC5AgohWl3lteMNVPOctuo/edit?usp=sharing)
 
-   Q5.Show "x = 10" in log. 
-
-   Q6.Argument. Pass the value to the method.
-
-   Q7.code is Calling a static method.
-
-   Q8.Transform should be _playerTransform(or transform).
-
-3. [W1 In Class Activities](https://docs.google.com/document/d/1y5LOXHts-EvqE00ku0UjBCC5AgohWl3lteMNVPOctuo/edit?usp=sharing)
-
-   
