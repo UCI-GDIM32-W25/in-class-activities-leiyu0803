@@ -17,8 +17,6 @@ Use official document and blog write by others. It will be very useful.
 | Q7   | code is Calling a static method.                        |
 | Q8   | "tansform" should be "\_playerTransform"(or transform). |
 
-
-
 ### Activity 3
 
 [W1 In Class Activities](https://docs.google.com/document/d/1y5LOXHts-EvqE00ku0UjBCC5AgohWl3lteMNVPOctuo/edit?usp=sharing)
@@ -33,3 +31,14 @@ Use official document and blog write by others. It will be very useful.
 [Change in class](https://github.com/UCI-GDIM32-W25/uci-gdim32-mg2-MG2/commit/785f3dc3be5120c0e6749ffe4ec070a3a7003dfa)
 
 I have completed the game.
+
+## Week 3
+
+### Activities 0-2
+
+buddy's name: Pengcheng Qi
+
+### Activity 3
+
+
+
