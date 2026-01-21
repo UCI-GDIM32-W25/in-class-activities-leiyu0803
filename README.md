@@ -1,4 +1,5 @@
 # GDIM32 In Class Activities
+
 ## Week 1
 
 ### Activity 1
@@ -6,6 +7,7 @@
 Use official document and blog write by others. It will be very useful.
 
 ### Activity 2
+
 | Questions | Answers |
 | ---- | ------------------------------------------------------- |
 | Q1   | 10                                                      |
@@ -24,6 +26,7 @@ Use official document and blog write by others. It will be very useful.
 ## Week 2
 
 ### Activity 1
+
 <img width="1755" height="1273" alt="W2" src="https://github.com/user-attachments/assets/8956da8b-b808-4895-8c5d-dec73091c0cf" />
 
 ### Activity 2
@@ -40,5 +43,6 @@ buddy's name: Pengcheng Qi
 
 ### Activity 3
 
+<img width="1755" height="1273" alt="无标题" src="https://github.com/user-attachments/assets/0915341f-4f67-4fe6-aabd-79063ce1625b" />
 
 
