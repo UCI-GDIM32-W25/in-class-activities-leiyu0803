@@ -45,7 +45,7 @@ buddy's name: Pengcheng Qi
 
 <img width="1755" height="1273" alt="无标题" src="https://github.com/user-attachments/assets/0915341f-4f67-4fe6-aabd-79063ce1625b" />
 
-## Week 3
+## Week 4
 
 ### Activity 0
 
