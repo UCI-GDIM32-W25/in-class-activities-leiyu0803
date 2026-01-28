@@ -1,5 +1,6 @@
-using UnityEngine;
 using System.Collections;
+using UnityEngine;
+using static UnityEditor.Experimental.GraphView.GraphView;
 
 public class W4UI : MonoBehaviour
 {
@@ -11,7 +12,10 @@ public class W4UI : MonoBehaviour
     // then, subscribe the HandlePigeonCoo method to the Pigeon coo event
 
 
-
+    private void Start()
+    {
+        Locator.Instance.Player.OnPigeonCoo += HandlePigeonCoo;
+    }
 
 
 
