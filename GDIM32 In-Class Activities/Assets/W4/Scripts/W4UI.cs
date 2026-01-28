@@ -14,7 +14,7 @@ public class W4UI : MonoBehaviour
 
     private void Start()
     {
-        Locator.Instance.Player.OnPigeonCoo += HandlePigeonCoo;
+        Locator.Player.OnPigeonCoo += HandlePigeonCoo;
     }
 
 
