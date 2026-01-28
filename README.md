@@ -57,9 +57,10 @@ The scripts destroy them self. The `Awake()` of the `Locator` checks if there ar
 
 ### Activity 2
 
-
+<img width="1280" height="1707" alt="1" src="https://github.com/user-attachments/assets/213acce8-25b7-4b1b-b1e2-c7988d238eeb" />
 
 #### How will the **model-view-controller pattern** be useful in this project?
+
 
 You can use model for score, view for UI, and controller for player action.
 
