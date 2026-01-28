@@ -45,4 +45,28 @@ buddy's name: Pengcheng Qi
 
 <img width="1755" height="1273" alt="无标题" src="https://github.com/user-attachments/assets/0915341f-4f67-4fe6-aabd-79063ce1625b" />
 
+## Week 3
 
+### Activity 0
+
+buddy's name: Pengcheng Qi
+
+### Activity 1
+
+The scripts destroy them self. The `Awake()` of the `Locator` checks if there are multiple instance of `Locator` and destroy them.
+
+### Activity 2
+
+
+
+#### How will the **model-view-controller pattern** be useful in this project?
+
+You can use model for score, view for UI, and controller for player action.
+
+#### How will the **events** be used?
+
+A game over event will used to tell the UI and Sound system.
+
+#### How will a **Singleton** be used?
+
+Make sure there are only one `GameController`.
