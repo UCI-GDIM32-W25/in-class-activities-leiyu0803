@@ -71,3 +71,61 @@ A game over event will used to tell the UI and Sound system.
 #### How will a **Singleton** be used?
 
 Make sure there are only one `GameController`.
+
+## Week 5
+
+### Activity 1
+
+These design is good for those projects that you will need to have same interact with different effects. For example if you need to make bullets shoot at a table and enemy. I will use interface.
+
+### Activity 2
+
+#### Model
+
+EnemyStats
+
+ItemW5Demo2
+
+#### Controller
+
+EnemyW5Demo2
+
+layerW5Demo2
+
+#### View
+
+DialogueBubble
+
+InventoryUI
+
+### Activity 3
+
+#### Scenario 1
+
+Scriptableobject: Data for the beat 
+
+Parent class: Beat
+
+Child class: Different types of beat
+
+Singleton: Gamecontroller contains score etc.
+
+#### Scenario 2
+
+Scriptableobject: animations and stats
+
+Abstract parent class and multiple interfaces: Attack and movements.
+
+#### Scenario 3
+
+Abstract parent class and two child classes: plant and rock. 
+
+Interfaces: which are destroyable and crops.
+
+State machine: Different grow stage
+
+### Activity 4
+
+Haoyi Zhang, Pengcheng Qi, Allen Gu
+
+[Final Project Proposal Template - Google Docs](https://docs.google.com/document/d/1x9D6Q_2PD2IP5_ACEah36JJO2HM0rF6mYcNEO8_yNTk/edit?tab=t.0)
