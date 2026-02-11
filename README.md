@@ -129,3 +129,24 @@ State machine: Different grow stage
 Haoyi Zhang, Pengcheng Qi, Allen Gu
 
 [Final Project Proposal Template - Google Docs](https://docs.google.com/document/d/1x9D6Q_2PD2IP5_ACEah36JJO2HM0rF6mYcNEO8_yNTk/edit?tab=t.0)
+
+## Week 6
+
+###  Activity 1
+
+#### Gizmo
+
+This tool can draw things that can only seen by the developer. This tool can used to draw things like collider and velocity etc. This can help developers to quickly find some issue like wrong collider.
+
+#### Profiler
+
+This tool can helps developer to find why the game is lagging by show what happed in single frame. So developer can know where to optimize the game to get higher performance.
+
+#### Breakpoint
+
+This tool can pause the game exactly before a certain line of code. So developer can check the variable and logic of the code and find what goes wrong and fix it.
+
+### Activity 2
+
+1. Attendance: Allen Gu, Haoyi Zhang, Pengcheng Qi
+2. [Draft Document](https://docs.google.com/document/d/1x9D6Q_2PD2IP5_ACEah36JJO2HM0rF6mYcNEO8_yNTk/edit?tab=t.0)
