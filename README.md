@@ -230,6 +230,8 @@ Attendance: Allen Gu, Haoyi Zhang, Pengcheng Qi
 
 ### Activity 3
 
+<img width="822" height="717" alt="5f5f337556e90bfbdca6da1725232f75" src="https://github.com/user-attachments/assets/8fbab51e-2644-47fb-a1b1-8af152a10d3e" />
+
 ### Activity 4
 
 [Link to the Trello Board](https://trello.com/b/TcDWOqGX)
