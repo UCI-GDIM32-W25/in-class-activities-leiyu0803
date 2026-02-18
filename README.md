@@ -196,8 +196,6 @@ Attendance: Allen Gu, Haoyi Zhang, Pengcheng Qi
        }
    ```
 
-   
-
 2. Raycasting
 
    ```C#
@@ -217,3 +215,23 @@ Attendance: Allen Gu, Haoyi Zhang, Pengcheng Qi
                _hasLineOfSightToPlayer = true;
            }
    ```
+
+3. Vector
+
+   How to find direction from A to B
+
+   ```c#
+   Vector3 direction = (B - A).normalized;
+   ```
+
+### Activity 2
+
+Attendance: Allen Gu, Haoyi Zhang, Pengcheng Qi
+
+### Activity 3
+
+### Activity 4
+
+[Link to the Trello Board](https://trello.com/b/TcDWOqGX)
+
+### Activity 5
