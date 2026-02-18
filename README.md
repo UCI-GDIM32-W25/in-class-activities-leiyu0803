@@ -148,5 +148,72 @@ This tool can pause the game exactly before a certain line of code. So developer
 
 ### Activity 2
 
-1. Attendance: Allen Gu, Haoyi Zhang, Pengcheng Qi
-2. [Draft Document](https://docs.google.com/document/d/1x9D6Q_2PD2IP5_ACEah36JJO2HM0rF6mYcNEO8_yNTk/edit?tab=t.0)
+Attendance: Allen Gu, Haoyi Zhang, Pengcheng Qi
+
+[Draft Document](https://docs.google.com/document/d/1x9D6Q_2PD2IP5_ACEah36JJO2HM0rF6mYcNEO8_yNTk/edit?tab=t.0)
+
+## Week 7
+
+### Activity 1
+
+1. State Machine
+
+   Duck have 2 states
+
+   ```c#
+   private enum DuckState 
+   {
+       Wandering,
+       Pursuing
+   }
+   ```
+
+    UpdateState() → RunState() → Run[Wander/Pursue]State()
+
+   ```c#
+       private void UpdateState ()
+       {
+           if(HasLineOfSightToPlayer())
+           {
+               _state = DuckState.Pursuing;
+           }
+           else 
+           {
+               _state = DuckState.Wandering;
+           }
+       }
+   ```
+
+   ```c#
+       private void RunState ()
+       {
+           switch(_state) 
+           {
+               case DuckState.Wandering: RunWanderState(); break;
+               case DuckState.Pursuing: RunPursueState(); break;
+               default: Debug.LogError("unhandled state " + _state); break;
+           }
+       }
+   ```
+
+   
+
+2. Raycasting
+
+   ```C#
+   Physics.Raycast(_raycastStart, _raycastDir, out hitInfo, _lineOfSightMaxDistance, _lineOfSightLayers.value)
+   ```
+
+   ```c#
+   _raycastStart = transform.TransformPoint(_raycastStartOffset);
+   _raycastDir = (PlayerW72.Instance.PlayerCenter - _raycastStart).normalized;
+   ```
+
+   Use tag to verify this is player
+
+   ```C#
+           if(hitInfo.collider.gameObject.tag.Equals(_playerTag))
+           {
+               _hasLineOfSightToPlayer = true;
+           }
+   ```
