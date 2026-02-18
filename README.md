@@ -237,3 +237,5 @@ Attendance: Allen Gu, Haoyi Zhang, Pengcheng Qi
 [Link to the Trello Board](https://trello.com/b/TcDWOqGX)
 
 ### Activity 5
+
+[Link to the commit](https://github.com/leiyu0803/GDIM32-Final/commit/c1b44d4e27ddcfde20a2875adca8a48dcaebbc1a) - I add player and camera movement.
