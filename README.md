@@ -239,3 +239,32 @@ Attendance: Allen Gu, Haoyi Zhang, Pengcheng Qi
 ### Activity 5
 
 [Link to the commit](https://github.com/leiyu0803/GDIM32-Final/commit/c1b44d4e27ddcfde20a2875adca8a48dcaebbc1a) - I add player and camera movement.
+
+## Week 8
+
+### Activity 1
+
+Post Process Profile is a file that used to manage all the post process effects. Developer can change how the world looks like by changing Bloom, Color Grading etc. 
+
+### Activity 2
+
+Attendance: Haoyi Zhang, Pengcheng Qi, Allen Gu
+
+### Activity 3
+
+[Test itch page](https://stormmoon.itch.io/gdim32-final-test1)
+
+Goal: Test all the interactable item. 
+
+After 30s of explore, tester known how to interact with all the items in the sense. All system working as intended in the current test version. 
+
+### Activity 4
+
+Add all the interactable item and score system into TestSense.
+
+Create a test build to playtest with.
+
+### Activity 5
+
+[Link to the commit](https://github.com/leiyu0803/GDIM32-Final/commit/7c4742c6cde0d759362d79b7e7d4d5446d4153b0)
+
