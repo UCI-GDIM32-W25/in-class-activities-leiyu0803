@@ -268,3 +268,24 @@ Create a test build to playtest with.
 
 [Link to the commit](https://github.com/leiyu0803/GDIM32-Final/commit/7c4742c6cde0d759362d79b7e7d4d5446d4153b0)
 
+## Week 9
+
+### Activity 1
+
+You need to use scriptable object instead of write your data in the code. This could help you to change or add more data.
+
+### Activity 2
+
+Attendance: Haoyi Zhang, Pengcheng Qi, Allen Gu
+
+### Activity 3
+
+Player need some time to learn how to interact with the item in the scenes. Most player can complete 4-6 order within 90 seconds.
+
+### Activity 4
+
+80% of our game is already completed. I underestimated my own productivity.
+
+### Activity 5
+
+[Added 3 different NPCs](https://github.com/leiyu0803/GDIM32-Final/commit/14e52a16514815c29a0c71d35a0840edaec9742d)
