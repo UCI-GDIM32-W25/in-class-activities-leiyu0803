@@ -289,3 +289,24 @@ Player need some time to learn how to interact with the item in the scenes. Most
 ### Activity 5
 
 [Added 3 different NPCs](https://github.com/leiyu0803/GDIM32-Final/commit/14e52a16514815c29a0c71d35a0840edaec9742d)
+
+## Week 9
+
+### Activity 1
+
+Attendance: Haoyi Zhang, Pengcheng Qi, Allen Gu
+
+### Activity 2
+
+Most we make is work as expected. Playtester learn how to play the game in a short amount of time.  A small problem may cause NPC randomly move around. We already fix that.
+
+### Activity 3
+
+Everything goes as expected.
+
+### Activity 4
+
+[Link to the commit](https://github.com/leiyu0803/GDIM32-Final/commit/f4041edde9ca7357dcc0ae1954bd9c140b56e940)
+
+I fixed a bug about NPC animation and movement. I also fixed a bug about can't access DialogueSet. Changed some UI elements. 
+
